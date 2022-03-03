@@ -1,6 +1,6 @@
 .heading
 {
-    font-size: 23px;
+    font-size: 30px;
     width: 100%;
     margin: 0px;
 }
@@ -12,14 +12,16 @@ body{
 
 .note
 {
-    font-size: 15px;
+    font-size: 20px;
     color:black;
    }
 
 
-   .play_button {
+   #song {
        width:130px;
        font-size:25px;
+       background-color: darkblue;
+       color: azure;
    }
 
     canvas {
